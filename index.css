@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+/* font-family: 'Chelsea Market', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+/* font-family: 'Roboto Mono', monospace; */
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+header {
+    height: 450px;
+    margin: 50px;
+}
+
+main {
+    margin: 50px;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 60px;
+}
+
+nav {
+    height: 100px;
+    text-align: center;
+    margin: 50px 0;
+}
+
+nav a {
+    display: inline-block;
+    width: 160px;
+    height: 60px;
+    margin-right: 120px;
+    border-radius: 16px;
+    line-height: 27px;
+    text-align: center;
+    color: #F9E7DC;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #F9E7DC;
+    height: 500px;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+    letter-spacing: 2.5px;
+}
+
+.hero {
+    margin-top: -40px;
+    height: 250px;
+}
+
+.hero-text {
+    display: inline-block;
+    width: 74%;
+    position: relative;
+    top: -40px;
+    left: -50px;
+    text-align: center;
+}
+
+.p1 {
+    margin: 30px 0 30px 60px;
+    font-size: 18px;
+}
+
+.p2 {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.hero-img {
+    width: 280px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.description {
+    margin-top: -65px;
+    background-color: #DDB9A3;
+    font-size: 18px;
+    padding: 15px;
+    color: #F9E7DC;
+    text-align: center;
+}
+
+.fire-img {
+    width: 200px;
+    display: block;
+    margin: 30px auto;
+}
+
+.fire p {
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 24px;
+}
+
+.rv-img {
+    width: 200px;
+    display: block;
+    margin: 50px auto 15px auto;
+}
+
+.lodging p {
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 24px;
+}
+
+.orange {
+    background-color: #FF764E;
+}
+
+.blue {
+    background-color: #5ED3EB;
+}
+
+.yellow {
+    background-color: #FFCD69;
+}
+
+.footer-img {
+    height: 65%;
+    width: 100%;
+}
+
